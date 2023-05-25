@@ -1,0 +1,7 @@
+echo "# calientedeli" >> README.md 
+git init 
+git add README.md 
+git commit -m "ilk taahhüt" 
+git şubesi -M ana 
+git uzak kaynak ekle https://github.com/qrmenu4242/calientedeli.git
+ git push - u menşei ana
